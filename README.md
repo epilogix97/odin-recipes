@@ -2,4 +2,4 @@
 
 This is my first real project on "the-odin-project".
 
-In this project i will learn HTML.
+In this project i will learn HTML and the workflow of git.
