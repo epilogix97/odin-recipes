@@ -2,7 +2,39 @@
 
 * {
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
 body {
-    background-color: gray;
+    background-color: rgb(255, 239, 168);
+}
+
+
+h1, h2, p {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 25px;
+}
+ul {
+    
+    width: 300px;
+    margin: 0 auto;
+}
+
+ol {
+    
+    width: 500px;
+    margin: 0 auto;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+li {
+    margin-bottom: 10px;
 }
